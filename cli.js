@@ -5,7 +5,7 @@ var argv = require("optimist")
 	"If the program is invoked as cowthink then the cow will think its message instead of saying it.")
 .options({
 	"e" : {
-		default : "oo"
+		default : "👀"
 	},
 	"T" : {
 		default : "  "
